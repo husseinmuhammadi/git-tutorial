@@ -1,3 +1,112 @@
 1.txt
 2.txt
 README.md
+commit 596960b90ca3e351fe374eec8c4d272469d207c3
+Author: husseinmuhammadi <hussein.muhammadi@hotmail.com>
+Date:   Sat Jun 27 01:26:03 2020 -0700
+
+    1
+
+commit 4ad76dcee570e872d9fe4be87928a01a4bf98f9e
+Merge: 143aafc 42486c9
+Author: husseinmuhammadi <hussein.muhammadi@hotmail.com>
+Date:   Sat Jun 27 00:55:34 2020 -0700
+
+    Merge branch '2'
+
+commit 42486c90259edd0530d0731560b7a31a5228521a
+Author: husseinmuhammadi <hussein.muhammadi@hotmail.com>
+Date:   Sat Jun 27 00:54:49 2020 -0700
+
+    2.txt
+
+commit 143aafc2a4a5c039a564c3b7a80ae976429eb9fb
+Author: husseinmuhammadi <hussein.muhammadi@hotmail.com>
+Date:   Sat Jun 27 00:54:21 2020 -0700
+
+    1.txt
+
+commit 1241eb5810bc8567bd8e8411139ab86ab7fd2e4a
+Author: husseinmuhammadi <hussein.muhammadi@hotmail.com>
+Date:   Sat Jun 27 00:52:49 2020 -0700
+
+    add files
+
+commit b24ba476a34287072b03768d374a5f087362916c
+Author: husseinmuhammadi <hussein.muhammadi@hotmail.com>
+Date:   Sat Jun 27 00:52:14 2020 -0700
+
+    remove files
+
+commit 390e31fdf18ed244fb035d97059ea19d298af54e
+Merge: be6993b a4b8bf9
+Author: husseinmuhammadi <hussein.muhammadi@hotmail.com>
+Date:   Sat Jun 27 00:49:29 2020 -0700
+
+    Merge branch '1' into 2
+
+commit be6993b1dd3259033701cb86a599a24e3119f2d9
+Author: husseinmuhammadi <hussein.muhammadi@hotmail.com>
+Date:   Sat Jun 27 00:48:49 2020 -0700
+
+    2.txt
+
+commit a4b8bf9cf75ff74f15bb6dcfbedb754e69166627
+Author: husseinmuhammadi <hussein.muhammadi@hotmail.com>
+Date:   Sat Jun 27 00:46:42 2020 -0700
+
+    1.txt
+
+commit 1845fcbbc0299404b45aa0c0c82a435be07dcf37
+Author: husseinmuhammadi <hussein.muhammadi@hotmail.com>
+Date:   Sat Jun 27 00:44:08 2020 -0700
+
+    1
+
+commit 3d9267fec88dbb32de0d0ce66ea26ccf32b50274
+Author: husseinmuhammadi <hussein.muhammadi@hotmail.com>
+Date:   Sat Jun 27 00:42:44 2020 -0700
+
+    add files 1 & 2
+
+commit 515cb0937d6587931d52ee40758d8be975bd9b29
+Author: husseinmuhammadi <hussein.muhammadi@hotmail.com>
+Date:   Sat Jun 27 00:38:43 2020 -0700
+
+    remove files
+
+commit dc3927550af2e7e40f0c96800bd5924b4e7d9fad
+Author: husseinmuhammadi <hussein.muhammadi@hotmail.com>
+Date:   Sat Jun 27 00:21:19 2020 -0700
+
+    changes on file 2
+
+commit 947b18e8c2bbe3908fa0773ec4d18370f72336e5
+Author: husseinmuhammadi <hussein.muhammadi@hotmail.com>
+Date:   Sat Jun 27 00:05:24 2020 -0700
+
+    changes on 1.txt
+
+commit ab1da690172722c3259b604b3145102eb904da9a
+Author: husseinmuhammadi <hussein.muhammadi@hotmail.com>
+Date:   Sat Jun 27 00:02:32 2020 -0700
+
+    Changes on 2.txt file
+
+commit 83ecb902a521975ef3d4ce158b6102a22525644b
+Author: husseinmuhammadi <hussein.muhammadi@hotmail.com>
+Date:   Sat Jun 27 00:01:19 2020 -0700
+
+    changes on 1.txt
+
+commit 1dab4a94f6ca6e32f8b5528205d3b9a295c1b747
+Author: Hossein Mohammadi <Ho.Mohammadi@persianswitch.net>
+Date:   Fri Jun 26 22:48:30 2020 -0700
+
+    Add 2 new text files
+
+commit 47e887db59b0bcc4c33a26f996489c7b8cd3a31e
+Author: Hossein Mohammadi <hussein.muhammadi@hotmail.com>
+Date:   Fri Jun 26 22:46:13 2020 -0700
+
+    Initial commit
