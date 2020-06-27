@@ -2,3 +2,6 @@ status
 1.txt
 2.txt
 README.md
+1.txt
+2.txt
+README.md
